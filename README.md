@@ -1,9 +1,9 @@
-<h1 align="center">👋 Olá!, Meu nome é Leandro Siqueira</h1>
+<h1 align="center">👋 Olá! Meu nome é Leandro Siqueira</h1>
 <h3 align="center">Sou desenvolvedor Full Stack, apaixonado por tecnologia e por compartilhar/adquirir experiências!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrocsiqueira&label=Profile%20views&color=0e75b6&style=flat" alt="leandrocsiqueira" /> </p>
 
-- 🌱 Além estar focado nos estudos sobre Testes de Software, dedico-me a desenvolver projetos com **ASP.NET Core, React e Angular**
+- 🌱 Atualmente estou focado em desenvolver e colaborar com projetos **ASP.NET Core, React e Angular**
 
 - 📫 Você poderá me encontrar no LinkedIn **https://www.linkedin.com/in/leandrocsiqueira/**
 
