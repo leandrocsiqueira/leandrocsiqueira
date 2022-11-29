@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrocsiqueira&label=Profile%20views&color=0e75b6&style=flat" alt="leandrocsiqueira" /> </p>
 
-- 🌱 Atualmente estou focado em desenvolver e colaborar com projetos **ASP.NET Core, React e Angular**
+- 🌱 Atualmente estou focado em desenvolver e colaborar em projetos que utilizem **Java, React e Angular**
 
 - 📫 Você poderá me encontrar no LinkedIn **https://www.linkedin.com/in/leandrocsiqueira/**
 
