@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Meu nome é Leandro Siqueira</h1>
+<h1 align="center">👋 Hello! My name is Leandro Siqueira</h1>
 <h3 align="center">I'm a Full Stack developer, passionate about technology and sharing/acquiring experiences!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrocsiqueira&label=Profile%20views&color=0e75b6&style=flat" alt="leandrocsiqueira" /> </p>
