@@ -9,7 +9,7 @@
 
 Dedicated professional, passionate about technology and specialized in Software Engineering. He started his career as a developer of web solutions in 2015, working in the areas of human resources, tax and academics. Aware of the importance of Education and moved by the desire to share and acquire more experience and skills, he also worked for many years as an instructor of IT technical courses. Today he wants to return to work with development in a company with a fair reputation, competitive, valuing plurality and based on equity and respect for its staff.
 
-I have knowledge in: HTML, CSS, JavaScript, TypeScript, Angular, Node.js, AWS, Azure, GraphQL, React, Java, Spring, SQL Server, MySQL, Oracle Database, MongoDB, GIT, GNU/Linux, Windows.
+I have knowledge in: HTML, CSS, JavaScript, TypeScript, Angular, Node.js, AWS, Azure, React, Java, Spring, SQL, T-SQL, PL/SQL, NoSQL, GIT, GNU/Linux.
 
 Let's have a coffee! I'm always open to learn new things, discuss about coding, music and crazy ideas. You can reach me at leandrosiqueira@outlook.com.
 
