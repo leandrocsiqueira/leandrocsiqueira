@@ -7,11 +7,11 @@
 </h4>
 
 
-Dedicated professional, passionate about technology and specialized in Software Engineering. He started his career as a developer of web solutions in 2015, working in the areas of human resources, tax and academics. Aware of the importance of Education and moved by the desire to share and acquire more experience and skills, he also worked for many years as an instructor of IT technical courses. Today he wants to return to work with development in a company with a fair reputation, competitive, valuing plurality and based on equity and respect for its staff.
+I am a systems analyst with latu sensu specialization in Software Engineering and I have been working as a web application developer for over 4 years, having opportunities to work with technologies such as .NET Framework, Angular, Laravel, C# and TypeScript languages and relational databases (I'm currently learning Ruby and digging deeper into QA). I also have a career of more than 10 years in the area of technical education in IT, developing skills and sharing experiences as a Professor in courses that I develop mainly for professionals in the DevOps area.
 
-I have knowledge in: HTML | CSS | Bootstrap | JavaScript | TypeScript | C# | Angular | React.js | Node.js | ASP.NET Web Forms | ASP.NET Core MVC | Entity Framework | MySQL | Microsoft SQL Server | Oracle Database and many other technologies. ;)
+I have knowledge and special interest in: JavaScript | TypeScript | C# | Angular | React.js | Node.js | .NET | ASP.NET Core. 
 
-Let's have a coffee! I'm always open to learn new things, discuss about coding, music and crazy ideas. You can reach me at leandrosiqueira@outlook.com.
+Let's have a coffee! You can reach me at leandrosiqueira@outlook.com.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrocsiqueira&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leandrocsiqueira&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrocsiqueira&theme=nord_dark) |
 | :-: | :-: | :-: |
