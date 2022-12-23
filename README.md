@@ -7,7 +7,7 @@
 </h4>
 
 
-I am a systems analyst with latu sensu specialization in Software Engineering and I have been working as a web application developer for over 4 years, having opportunities to work with technologies such as .NET Framework, Angular, Laravel, C# and TypeScript languages and relational databases (I'm currently learning Ruby and digging deeper into QA). I also have a career of more than 10 years in the area of technical education in IT, developing skills and sharing experiences as a Professor in courses that I develop mainly for professionals in the DevOps area.
+I am a systems analyst with latu sensu specialization in Software Engineering and I have been working as a web application developer for over 4 years, having opportunities to work with technologies such as .NET Framework, Angular, Laravel, C# and TypeScript languages and relational databases (I'm currently learning Ruby and digging deeper into QA). I also have a career of more than 10 years in the area of technical education in IT, developing skills and sharing experiences as a Teacher in courses that I produce mainly for professionals in the DevOps area.
 
 I have knowledge and special interest in: JavaScript | TypeScript | C# | Angular | React.js | Node.js | .NET | ASP.NET Core. 
 
