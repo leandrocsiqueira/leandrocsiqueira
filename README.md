@@ -9,9 +9,9 @@
 
 I am a systems analyst with latu sensu specialization in Software Engineering and I have been working as a web application developer for over 4 years, having opportunities to work with technologies such as .NET Framework, Angular, Laravel, C# and TypeScript languages and relational databases (I'm currently learning Ruby and digging deeper into QA). I also have a career of more than 10 years in the area of technical education in IT, developing skills and sharing experiences as a Teacher in courses that I produce mainly for professionals in the DevOps area.
 
-Study areas: Software Engineering | Agile methodologies
+Main study areas: Software Engineering | Agile methodologies
 
-I have knowledge and special interest in: TypeScript | Angular | React.js | Java | Ruby | .NET | ASP.NET Core | C#. 
+I have special interest in: TypeScript | Angular | ReactJS | NodeJS
 
 Let's have a coffee! You can reach me at leandrosiqueira@outlook.com.
 
